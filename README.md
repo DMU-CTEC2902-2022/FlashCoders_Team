@@ -26,5 +26,8 @@ course.
 -register on one of the available courses by inserting their details
 multiple adverts on each page
 - Who will the actors be?
+- students
+- staff
+- parents
 
 Week25 = Presentation
