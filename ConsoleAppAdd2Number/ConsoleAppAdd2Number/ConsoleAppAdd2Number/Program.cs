@@ -12,6 +12,7 @@ namespace ConsoleAppAdd2Number
         {
             Console.WriteLine("CTEC2902");
             Console.ReadLine();
+            Console.WriteLine("Afseen");
         }
     }
 }
