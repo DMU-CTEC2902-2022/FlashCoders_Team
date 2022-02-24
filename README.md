@@ -4,16 +4,17 @@
 developer
 -UI diagram, use case diagram, UML diagram,ERD, test plan
 
-Dhruv- Project manager
-Ishvone- Developer
+Aisha- System Analyst
+Afseen- Coordinator
+
 
 -encapsulation, inheritance and perhaps polymorphism coding system analysts/coordinators should also describe the initial 
 documentation for the proposed system and the developers should demonstrate the 
 prototype system to reveal the rough view (Based on initial documentation) of the main page 
 for the system.
 
-Afseen-System Analyst
-Aisha- Coordinator
+Dhruv- Developer
+Ishvone - Developer
 
 
 -website/web application to be built for my college
