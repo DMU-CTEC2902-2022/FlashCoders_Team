@@ -33,3 +33,43 @@ C:\Assignment 2 todaywork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupM
 C:\Assignment 2 todaywork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.csproj.CopyComplete
 C:\Assignment 2 todaywork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
 C:\Assignment 2 todaywork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll.config
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.pdb
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\WebGrease.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.pdb
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll.config
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.xml
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.csproj.AssemblyReference.cache
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.csproj.CoreCompileInputs.cache
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.csproj.CopyComplete
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
+C:\AfternoonWork\GroupMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb

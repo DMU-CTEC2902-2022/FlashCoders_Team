@@ -8,6 +8,6 @@ namespace GroupMVCProject.Models
     public class Course
     {
         public virtual int CourseID { get; set; }
-        public virtual int CourseName { get; set; }
+        public virtual string CourseName { get; set; }
     }
 }
