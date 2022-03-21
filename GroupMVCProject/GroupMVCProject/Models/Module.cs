@@ -11,5 +11,7 @@ namespace GroupMVCProject.Models
         public virtual int CourseID { get; set; }
         public virtual string ModuleCode { get; set; }
         public virtual string ModuleTitle { get; set; }
+        public virtual string ModuleDescription { get; set; }
+        public virtual string ModuleContents { get; set; }
     }
 }
