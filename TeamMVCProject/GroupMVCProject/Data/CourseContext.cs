@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace GroupMVCProject.Data
+namespace TeamMVCProject.Data
 {
     public class CourseContext : DbContext
     {
@@ -19,6 +19,6 @@ namespace GroupMVCProject.Data
         {
         }
 
-        public System.Data.Entity.DbSet<GroupMVCProject.Models.Course> Courses { get; set; }
+        public System.Data.Entity.DbSet<TeamMVCProject.Models.Course> Courses { get; set; }
     }
 }
