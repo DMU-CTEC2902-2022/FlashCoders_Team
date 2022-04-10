@@ -15,7 +15,7 @@ namespace GroupMVCProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your College's description page.";
 
             return View();
         }
@@ -26,5 +26,18 @@ namespace GroupMVCProject.Controllers
 
             return View();
         }
+        public ActionResult Course()
+        {
+            ViewBag.Message = "Your Course page.";
+
+            return View();
+        }
+        public ActionResult Student()
+        {
+            ViewBag.Message = "Your Student's page.";
+
+            return View();
+        }
+       
     }
 }
