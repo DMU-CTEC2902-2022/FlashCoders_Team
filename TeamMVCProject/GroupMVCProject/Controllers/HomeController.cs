@@ -34,10 +34,21 @@ namespace GroupMVCProject.Controllers
         }
         public ActionResult Student()
         {
-            ViewBag.Message = "Your Student's page.";
+            //ViewBag.Message = "Your Student's page.";
 
             return View();
         }
-       
+        public ActionResult Submit()
+        {
+            ViewBag.Message = "Submit page.";
+
+            return View();
+        }
+        public ActionResult UpdatedDetails()
+        {
+            ViewBag.Message = "Updated Details";
+
+            return View();
+        }
     }
 }

@@ -1,90 +1,40 @@
 ﻿@{
     ViewBag.Title = "Contact";
 }
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-/* Style inputs */
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-input[type=submit] {
-  background-color: #04AA6D;
-  /*color: white;*/
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
- background-color: #45a049;
-}
-
-
-/* Create two columns that float next to eachother */
-.column {
-  float: left;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-  .column, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
-
-</style>
-
+<link href="~/Stylesheets/Contact.css" rel="stylesheet" />
 <body>
+    <center><img src="~/Images/Educational-Logo.png" width="200" height="150" /></center>
+    <div style="text-align:center">
+        <h2>Contact Us</h2>
+        <p>Please contact us if you have any questions or queires:</p>
+    </div>
+    <center>
+        <div class="column">
+            <form action="~/Views/Home/Contact.cshtml">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                <label for="surname">SurName</label>
+                <input type="text" id="surname" name="surname" placeholder="Your surname..">
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                    <option value="leicester">Leicester</option>
+                    <option value="birmingham">Birmingham</option>
+                    <option value="nottingham">Nottingham</option>
+                    <option value="london">London</option>
+                </select>
+                <p>
+                    <label for="email">Email</label>
+                    <input type="text" id="email" name="email" placeholder="Your email..">
+                </p>
+                <div>
+                    <textarea id="query" name="query" placeholder="Query/Questions.." style="height:170px"></textarea>
+                </div>
 
-        <div style="text-align:center">
-            <h2>Contact Us</h2>
-            <p>Please contact us if you have any questions or queires:</p>
+                    <a href="~/Views/Home/Submit.cshtml">
+                    <input type="button" value="Submit">
+                </a>
+            </form>
         </div>
-        <center>
-            <div class="column">
-                <form action="/action_page.php">
-                    <label for="fname">First Name</label>
-                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-                    <label for="surname">SurName</label>
-                    <input type="text" id="surname" name="surname" placeholder="Your surname..">
-                    <label for="country">Country</label>
-                    <select id="country" name="country">
-                        <option value="leicester">Leicester</option>
-                        <option value="birmingham">Birmingham</option>
-                        <option value="nottingham">Nottingham</option>
-                        <option value="london">London</option>
-                    </select>
-                    <p>
-                        <label for="email">Email</label>
-                        <input type="text" id="email" name="email" placeholder="Your email..">
-                    </p>
-                    <div>
-                        <textarea id="query" name="query" placeholder="Query/Questions.." style="height:170px"></textarea>
-                    </div>
-                    <input type="submit" value="Submit">
-
-                </form>
-            </div>
-        </center>
+    </center>
 </body>
 
