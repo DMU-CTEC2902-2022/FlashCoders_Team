@@ -50,5 +50,11 @@ namespace GroupMVCProject.Controllers
 
             return View();
         }
+        public ActionResult Register()
+        {
+            ViewBag.Message = "Please fill this with your personal details";
+
+            return View();
+        }
     }
 }
