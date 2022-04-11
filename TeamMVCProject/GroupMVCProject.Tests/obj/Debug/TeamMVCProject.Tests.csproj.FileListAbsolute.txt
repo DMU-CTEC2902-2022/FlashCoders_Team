@@ -38,3 +38,43 @@ C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProj
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CopyComplete
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll.config
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.pdb
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\WebGrease.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.pdb
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll.config
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.AssemblyReference.cache
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CopyComplete
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
+C:\Users\Ishvone\Source\Repos\FlashCoders_Team\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb
