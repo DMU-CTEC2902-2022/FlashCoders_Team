@@ -164,6 +164,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\CourseContext-20220315121706.mdf" />
+    <Content Include="App_Data\CourseContext-20220315121706_log.ldf">
+      <DependentUpon>CourseContext-20220315121706.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\CourseContext-20220330122053.mdf" />
     <Content Include="App_Data\CourseContext-20220330122053_log.ldf">
       <DependentUpon>CourseContext-20220330122053.mdf</DependentUpon>
@@ -244,7 +247,7 @@
     <Content Include="Views\Home\Student.cshtml" />
     <Content Include="Views\Home\Submit.cshtml" />
     <Content Include="Views\Home\UpdatedDetails.cshtml" />
-    <Content Include="Views\User\AddEdit.cshtml" />
+    <Content Include="Views\Home\Register.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
@@ -262,7 +265,9 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Views\User\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
