@@ -46,13 +46,19 @@ namespace GroupMVCProject.Controllers
         }
         public ActionResult UpdatedDetails()
         {
-            ViewBag.Message = "Updated Details";
+            //ViewBag.Message = "Updated Details";
 
             return View();
         }
         public ActionResult Register()
         {
             ViewBag.Message = "Please fill this with your personal details";
+
+            return View();
+        }
+        public ActionResult Home()
+        {
+            //ViewBag.Message = "Updated Details";
 
             return View();
         }
