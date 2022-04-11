@@ -138,6 +138,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202204092244428_InitialCreate.cs" />
+    <Compile Include="Migrations\202204092244428_InitialCreate.Designer.cs">
+      <DependentUpon>202204092244428_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202204111333438_Module.cs" />
+    <Compile Include="Migrations\202204111333438_Module.Designer.cs">
+      <DependentUpon>202204111333438_Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\CollegeDataInitialiser.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\DBModel.Context.cs">
@@ -260,6 +269,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Registeration\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202204092244428_InitialCreate.resx">
+      <DependentUpon>202204092244428_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202204111333438_Module.resx">
+      <DependentUpon>202204111333438_Module.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

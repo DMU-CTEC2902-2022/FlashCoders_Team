@@ -15,6 +15,7 @@ namespace GroupMVCProject
         protected void Application_Start()
         {
             Database.SetInitializer(new CollegeDataInitialiser());
+            Database.SetInitializer(new ModuleDataInitialiser());
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

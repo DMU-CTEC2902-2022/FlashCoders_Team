@@ -38,3 +38,43 @@ C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProj
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CopyComplete
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
 C:\Users\aisha\OneDrive\Documents\Year 2\Advanced Programming\afseen\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll.config
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.Tests.pdb
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\WebGrease.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.pdb
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\GroupMVCProject.dll.config
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Helpers.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Mvc.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Razor.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\EntityFramework.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\System.Web.Optimization.xml
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.AssemblyReference.cache
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CoreCompileInputs.cache
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\TeamMVCProject.Tests.csproj.CopyComplete
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.dll
+C:\dpwork\TeamMVCProject\GroupMVCProject.Tests\obj\Debug\GroupMVCProject.Tests.pdb
