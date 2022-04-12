@@ -16,8 +16,20 @@ namespace GroupMVCProject.Controllers
         private ModuleContext db = new ModuleContext();
 
         // GET: Modules
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
+           // List<Module> moduleList;
+
+          //  var modules = db.Modules.Include(g => g.course);
+          //  if (id != null)
+             //   moduleList = modules.ToList().FindAll(p => p.CourseID == id); // retrieve
+            // all modules for the different courses
+          //  else moduleList = modules.ToList(); // retrieve all modules
+
+            ///if(moduleList.Count() == 0)
+           // {
+                //return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+           // }
             return View(db.Modules.ToList());
         }
 

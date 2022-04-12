@@ -13,5 +13,6 @@ namespace TeamMVCProject.Models
         public virtual string ModuleTitle { get; set; }
         public virtual string ModuleDescription { get; set; }
         public virtual string ModuleContents { get; set; }
+        public virtual Course course { get; set; }
     }
 }
