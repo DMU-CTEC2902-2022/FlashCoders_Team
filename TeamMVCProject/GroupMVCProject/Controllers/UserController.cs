@@ -31,7 +31,7 @@ namespace GroupMVCProject.Controllers
                     db.SaveChanges();
                 }
                 ModelState.Clear();
-                ViewBag.SuccessMessage = " Saved Successfull.";
+                ViewBag.SuccessMessage = " Saved Successful.";
                 return View("AddEdit", new UserTable());
             }
         }

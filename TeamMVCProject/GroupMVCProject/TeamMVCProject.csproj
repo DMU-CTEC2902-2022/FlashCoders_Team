@@ -168,9 +168,6 @@
       <DependentUpon>CourseContext-20220315121706.mdf</DependentUpon>
     </Content>
     <Content Include="App_Data\CourseContext-20220330122053.mdf" />
-    <Content Include="App_Data\CourseContext-20220330122053_log.ldf">
-      <DependentUpon>CourseContext-20220330122053.mdf</DependentUpon>
-    </Content>
     <Content Include="App_Data\ModuleContext-20220315121806.mdf" />
     <Content Include="App_Data\ModuleContext-20220315121806_log.ldf">
       <DependentUpon>ModuleContext-20220315121806.mdf</DependentUpon>

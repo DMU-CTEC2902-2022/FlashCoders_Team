@@ -124,5 +124,19 @@ namespace GroupMVCProject.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public ViewResult Course()
+        {
+
+            Course courseModel = new Course();
+
+            courseModel.CourseID = 12345;
+
+            courseModel.CourseName = "Latest courses that will help.";
+
+            courseModel.CoursePrice = 250.00M;
+
+            return View(courseModel);
+        }
     }
 }

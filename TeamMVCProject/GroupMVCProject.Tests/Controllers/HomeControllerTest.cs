@@ -41,8 +41,8 @@ namespace GroupMVCProject.Tests.Controllers
         [TestMethod]
         public void Contact()
         {
-            // Arrange
-            HomeController controller = new HomeController();
+             // Arrange
+             HomeController controller = new HomeController();
 
             // Act
             ViewResult result = controller.Contact() as ViewResult;
@@ -50,5 +50,126 @@ namespace GroupMVCProject.Tests.Controllers
             // Assert
             Assert.IsNotNull(result);
         }
+
+         [TestMethod]
+         public void Register()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Register() as ViewResult;
+
+            // Assert
+            Assert.IsNotNull(result);
+         }
+
+         [TestMethod]
+         public void Course()
+         {
+            // Arrange
+             HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Course() as ViewResult;
+
+            // Assert
+            Assert.IsNotNull(result);
+         }
+
+         [TestMethod]
+         public void Modules()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Modules() as ViewResult;
+
+            // Assert
+            Assert.IsNotNull(result);
+         }
+
+         [TestMethod]
+         public void Student()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+             // Act
+             ViewResult result = controller.Student() as ViewResult;
+
+             // Assert
+             Assert.IsNotNull(result);
+         }
+
+         [TestMethod]
+         public void CourseNameID1()
+         {
+            // Arrange
+             HomeController controller = new HomeController();
+
+             // Act
+             ViewResult result = controller.Course() as ViewResult;
+
+             // Assert
+             Assert.AreEqual("Computer Science", result.ViewBag.Message);
+         }
+
+         [TestMethod]
+         public void CourseNameID2()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Course() as ViewResult;
+
+            // Assert
+            Assert.AreEqual("Software Engineering", result.ViewBag.Message);
+         }
+
+         [TestMethod]
+         public void CourseNameID3()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Course() as ViewResult;
+
+            // Assert
+            Assert.AreEqual("Cyber Security", result.ViewBag.Message);
+         }
+
+         [TestMethod]
+         public void Username()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            controller.Username = "Aisha";
+            // controller.Password = "1";
+
+            // Act
+            ViewResult result = controller.Register() as ViewResult;
+
+            Assert.AreEqual("Registration successful!", result.ViewBag.SubTitle);
+         }
+
+         [TestMethod]
+         public void Password()
+         {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            controller.Password = "1234";
+            // controller.Password = "1";
+
+            // Act
+            ViewResult result = controller.Register() as ViewResult;
+
+            Assert.AreEqual("Registration successful!", result.ViewBag.SubTitle);
+         }
     }
 }
