@@ -3,7 +3,7 @@
 @{
     ViewBag.Title = "Details";
 }
-
+<center><img src="~/Images/Educational-Logo.png" width="200" height="150" /></center>
 <h2>Details</h2>
 
 <div>
@@ -55,4 +55,5 @@
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.ModuleID }) |
     @Html.ActionLink("Back to List", "Index")
+    <center><a href="@Url.Action("AddEdit","User")">Register on course</a></center>
 </p>

@@ -3,9 +3,9 @@
 @{
     ViewBag.Title = "Course";
 }
-
+<center><img src="~/Images/Educational-Logo.png" width="200" height="150" /></center>
 <p>
-   
+
     <h1>Courses</h1>
 
 </p>
@@ -17,17 +17,18 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.CourseName)
-        </td>
-        <td>
-           
-            @Html.ActionLink("Details", "../Modules/Index", new { id=item.CourseID }) |
-            
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+
+                @Html.ActionLink("Details", "../Modules/Index", new { id = item.CourseID }) |
+
+            </td>
+        </tr>
+    }
 
 </table>
