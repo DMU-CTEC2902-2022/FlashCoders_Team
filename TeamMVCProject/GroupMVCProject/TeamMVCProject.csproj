@@ -163,11 +163,22 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\CourseContext-20220315121706.mdf" />
+    <Content Include="App_Data\CourseContext-20220315121706_log.ldf">
+      <DependentUpon>CourseContext-20220315121706.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\CourseContext-20220330122053.mdf" />
     <Content Include="App_Data\CourseContext-20220330122053_log.ldf">
       <DependentUpon>CourseContext-20220330122053.mdf</DependentUpon>
     </Content>
+    <Content Include="App_Data\ModuleContext-20220315121806.mdf" />
+    <Content Include="App_Data\ModuleContext-20220315121806_log.ldf">
+      <DependentUpon>ModuleContext-20220315121806.mdf</DependentUpon>
+    </Content>
     <Content Include="App_Data\Registeration.mdf" />
+    <Content Include="App_Data\Registeration_log.ldf">
+      <DependentUpon>Registeration.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
