@@ -4,10 +4,10 @@
     ViewBag.Title = "Modules";
 }
 
-
+<center><img src="~/Images/Educational-Logo.png" width="200" height="150" /></center>
 
 <p>
-   
+
 </p>
 <table class="table">
     <tr>
@@ -29,29 +29,30 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.CourseID)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ModuleCode)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ModuleTitle)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ModuleDescription)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ModuleContents)
-        </td>
-        <td>
-           
-            @Html.ActionLink("Details", "Details", new { id=item.ModuleID }) |
-           
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModuleCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModuleTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModuleDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModuleContents)
+            </td>
+            <td>
+
+                @Html.ActionLink("Details", "Details", new { id = item.ModuleID }) |
+
+            </td>
+        </tr>
+    }
 
 </table>
