@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<TeamMVCProject.Models.Course>
 
 @{
-    ViewBag.Title = "Courses";
+    ViewBag.Title = "Course";
 }
 
 <p>
@@ -24,7 +24,7 @@
         </td>
         <td>
            
-            @Html.ActionLink("Details", "Details", new { id=item.CourseID }) |
+            @Html.ActionLink("Details", "../Modules/Index", new { id=item.CourseID }) |
             
         </td>
     </tr>
