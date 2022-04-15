@@ -185,6 +185,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\Campus.png" />
+    <Content Include="Images\College Vid.mp4" />
     <Content Include="Images\College.jpg" />
     <Content Include="Images\Educational-Logo.png" />
     <Content Include="Models\DBModel.Context.tt">

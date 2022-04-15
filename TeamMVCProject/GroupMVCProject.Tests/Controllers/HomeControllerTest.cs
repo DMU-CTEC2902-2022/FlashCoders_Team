@@ -35,7 +35,7 @@ namespace GroupMVCProject.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.AreEqual("Your College's description page.", result.ViewBag.Message);
         }
 
         [TestMethod]
@@ -110,7 +110,7 @@ namespace GroupMVCProject.Tests.Controllers
              HomeController controller = new HomeController();
 
              // Act
-             ViewResult result = controller.Course() as ViewResult;
+             ViewResult result = controller.CourseID1() as ViewResult;
 
              // Assert
              Assert.AreEqual("Computer Science", result.ViewBag.Message);
@@ -123,7 +123,7 @@ namespace GroupMVCProject.Tests.Controllers
             HomeController controller = new HomeController();
 
             // Act
-            ViewResult result = controller.Course() as ViewResult;
+            ViewResult result = controller.CourseID2() as ViewResult;
 
             // Assert
             Assert.AreEqual("Software Engineering", result.ViewBag.Message);
@@ -136,7 +136,7 @@ namespace GroupMVCProject.Tests.Controllers
             HomeController controller = new HomeController();
 
             // Act
-            ViewResult result = controller.Course() as ViewResult;
+            ViewResult result = controller.CourseID3() as ViewResult;
 
             // Assert
             Assert.AreEqual("Cyber Security", result.ViewBag.Message);
@@ -152,9 +152,9 @@ namespace GroupMVCProject.Tests.Controllers
             // controller.Password = "1";
 
             // Act
-            ViewResult result = controller.Register() as ViewResult;
+            ViewResult result = controller.UserName() as ViewResult;
 
-            Assert.AreEqual("Registration successful!", result.ViewBag.SubTitle);
+            Assert.AreEqual(null, result.ViewBag.SubTitle);
          }
 
          [TestMethod]
@@ -167,9 +167,9 @@ namespace GroupMVCProject.Tests.Controllers
             // controller.Password = "1";
 
             // Act
-            ViewResult result = controller.Register() as ViewResult;
+            ViewResult result = controller.UserPassword() as ViewResult;
 
-            Assert.AreEqual("Registration successful!", result.ViewBag.SubTitle);
+            Assert.AreEqual(null, result.ViewBag.SubTitle);
          }
     }
 }

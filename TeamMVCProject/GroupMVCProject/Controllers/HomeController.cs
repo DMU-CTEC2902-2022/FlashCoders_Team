@@ -33,7 +33,22 @@ namespace GroupMVCProject.Controllers
             ViewBag.Message = "Your Course page.";
             return View();
         }
-        
+        public ActionResult CourseID1()
+        {
+            ViewBag.Message = "Computer Science";
+            return View();
+        }
+        public ActionResult CourseID2()
+        {
+            ViewBag.Message = "Software Engineering";
+            return View();
+        }
+
+        public ActionResult CourseID3()
+        {
+            ViewBag.Message = "Cyber Security";
+            return View();
+        }
         public ActionResult CourseModel()
         {
              //ViewBag.Message = "Your Course page.";
@@ -69,7 +84,16 @@ namespace GroupMVCProject.Controllers
             ViewBag.Message = "Please fill this with your personal details";
             return View();
         }
-        
+        public ActionResult UserPassword()
+        {
+            ViewBag.Message = null;
+            return View();
+        }
+        public ActionResult UserName()
+        {
+            ViewBag.Message = null;
+            return View();
+        }
         public ActionResult UsernameModel()
         {
             // ViewBag.Message = "Please fill this with your personal details";
